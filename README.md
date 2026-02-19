@@ -11,7 +11,7 @@ Automated macOS setup script for a DevOps / developer workstation.
 
 ### CLIs
 - `kubectl`, `helm`, `az` (Azure CLI), `nvm`
-- `eza`, `bat`, `ripgrep`, `fd`, `fzf`, `zoxide`, `lazygit`
+- `eza`, `bat`, `ripgrep`, `fd`, `fzf`, `lazygit`
 
 ### Shell
 - Oh My Zsh + Powerlevel10k
